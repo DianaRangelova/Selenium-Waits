@@ -1,0 +1,25 @@
+Window handle for new window: 3FDCE874BCDC3E7856C5EAA87A9EBA3A
+
+The page content: <html><head>
+  <title>New Window</title>
+</head>
+
+<body><div class="example">
+  <h3>New Window</h3>
+</div>
+</body></html>
+
+Window handle for new window: EA5E30B02557F55128A5A226637F9BDC
+
+The page content: <html><head>
+  <title>New Window</title>
+</head>
+
+<body><div class="example">
+  <h3>New Window</h3>
+</div>
+</body></html>
+
+NoSuchWindowException caught: no such window
+  (Session info: chrome=126.0.6478.127)
+
